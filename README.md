@@ -1,8 +1,8 @@
 # Linux-Egitimi
 
-SDU IEEE Computer Society Temel Linux eğitimi dökümanları.
+<b> SDU IEEE Computer Society Temel Linux eğitimi dökümanları. </b>
 
-Sunum Konuları:
+<b> Sunum Konuları: </b>
 
 Linux nedir? <br/>
 GNU/Linux  <br/>
@@ -22,4 +22,4 @@ Linuxta Zamanlanmış görevler  <br/>
 Linuxta DNS değiştirme  <br/>
 Linuxta root şifresi değiştirme  <br/>
 
-Sunumlar eğitimin belli aşamalarında kullanılmıştır.Eğitmen ve Sunum Sahibi : Ahmet Gürel
+<b> Sunumlar eğitimin belli aşamalarında kullanılmıştır.Eğitmen ve Sunum Sahibi : Ahmet Gürel </b>
