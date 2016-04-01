@@ -1,4 +1,4 @@
-                                <b> Linux-Egitimi</b>
+                                <b> Linux-Egitimi </b>
 
 
 <img src="http://2.bp.blogspot.com/-TCnZ1qbUsV8/VN2-dmYxqAI/AAAAAAAAAlg/9aNK6e4dsBY/s1600/linux%2Bhlds.png">
