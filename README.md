@@ -1,5 +1,8 @@
 # Linux-Egitimi
 
+
+<img src="http://2.bp.blogspot.com/-TCnZ1qbUsV8/VN2-dmYxqAI/AAAAAAAAAlg/9aNK6e4dsBY/s1600/linux%2Bhlds.png">
+
 <b> SDU IEEE Computer Society Temel Linux eğitimi dökümanları. </b>
 
 <b> Sunum Konuları: </b>
