@@ -35,3 +35,7 @@ Linuxta root şifresi değiştirme  <br/>
 
 
 <b> Linux Belgeler: </b> http://www.belgeler.org/howto/howtos.html
+
+<b> Linux Journey: </b> https://linuxjourney.com/
+
+<b> Why Linux is Better: </b>  http://www.whylinuxisbetter.net/index_tr.php?lang=tr
